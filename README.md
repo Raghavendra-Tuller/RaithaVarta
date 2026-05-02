@@ -56,7 +56,7 @@ Android Developer
 
 ## 📸 Screenshots
 
-| About screen | Home Screen | Story Screen |
+| About screen | Home Screen | Stories Screen |
 |------------|------------|-------------|
 | <img src="https://github.com/user-attachments/assets/08da6437-82c3-4c02-af2e-4d02abacd48a" width="180"/> | <img src="https://github.com/user-attachments/assets/867f501c-dce5-463e-951e-7c079590f899" width="180"/> | <img src="https://github.com/user-attachments/assets/77ff3e10-da24-4a59-891a-584992b4d4e2" width="180"/> |
 
