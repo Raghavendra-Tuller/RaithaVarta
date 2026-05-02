@@ -57,9 +57,12 @@ Android Developer
 ## 📸 Screenshots
 
 
-<img width="324" height="755" alt="Screenshot 2026-05-02 200457" src="https://github.com/user-attachments/assets/08da6437-82c3-4c02-af2e-4d02abacd48a" />
+<img width="200" height="200" alt="Screenshot 2026-05-02 200457" src="https://github.com/user-attachments/assets/08da6437-82c3-4c02-af2e-4d02abacd48a" />
 
 <img width="344" height="768" alt="Screenshot 2026-05-02 205909" src="https://github.com/user-attachments/assets/867f501c-dce5-463e-951e-7c079590f899" />
+
+<img width="348" height="771" alt="Screenshot 2026-05-02 200438" src="https://github.com/user-attachments/assets/77ff3e10-da24-4a59-891a-584992b4d4e2" />
+
 
 
 
