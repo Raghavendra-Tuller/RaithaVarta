@@ -9,7 +9,7 @@ Raitha-Varta is an Android application that transforms complex agricultural advi
 👉 Click below to download and install the app:
 
 🔗 https://github.com/YOUR_USERNAME/RaithaVarta/releases
-
+ 
 ⚠️ Enable "Install unknown apps" in your phone settings before installing.
 
 ---
